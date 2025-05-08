@@ -151,7 +151,7 @@ const enmy = new Fighter({
   color: "blue",
   offset: {
     x: 0,
-    y: 0,
+    y: 40,
   },
   imgSrc: "./imgs/inoski/Idel.png",
   framesMax: 5,
